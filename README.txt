@@ -15,6 +15,7 @@ Lessons:
     day 11  : None.
     day 12  : Local and Global Scope
     day 13  : Debugging
+    day 14  : None.
 
 Projects:
     day  1  : Band Name Generator
@@ -30,3 +31,4 @@ Projects:
     day 11  : The Blackjack Capstone Project
     day 12  : Your Guess - A Number Guessing Game
     day 13  : None.
+    day 14  : The Higher Lower Game
