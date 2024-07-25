@@ -16,6 +16,7 @@ Lessons:
     day 12  : Local and Global Scope
     day 13  : Debugging
     day 14  : None.
+    day 15  : None.
 
 Projects:
     day  1  : Band Name Generator
@@ -32,3 +33,4 @@ Projects:
     day 12  : Your Guess - A Number Guessing Game
     day 13  : None.
     day 14  : The Higher Lower Game
+    day 15  : Hanna's Coffee Machine
