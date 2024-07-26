@@ -1,1 +1,0 @@
-print("There was no Lessons for this day.")
