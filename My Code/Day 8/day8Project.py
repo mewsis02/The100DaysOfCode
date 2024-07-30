@@ -1,6 +1,6 @@
 # My Caesar Cipher
 
-from Resources import ceasar_cipher
+import ceasar_cipher
 print(ceasar_cipher.logo)
 
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']

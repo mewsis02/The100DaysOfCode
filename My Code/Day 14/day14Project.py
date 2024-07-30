@@ -1,8 +1,8 @@
 # The Higher Lower Game
 
 import random
-from Resources import higher_lower_art
-from Resources import higher_lower_GameData
+import higher_lower_art
+import higher_lower_GameData
 print(higher_lower_art.logo)
 
 numOfNames = 50

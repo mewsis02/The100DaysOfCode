@@ -1,6 +1,6 @@
 # My Python Calculator
 
-from Resources import python_calculator_art
+import python_calculator_art
 print(python_calculator_art.logo)
 
 

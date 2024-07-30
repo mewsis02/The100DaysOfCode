@@ -1,6 +1,6 @@
 # The Auction
 
-from Resources import blind_auction
+import blind_auction
 print(blind_auction.logo)
 
 all_the_bids = {}

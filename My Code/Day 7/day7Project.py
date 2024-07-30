@@ -2,8 +2,8 @@
 
 import random
 
-from Resources import hangman_words
-from Resources import hangman_art
+import hangman_words
+import hangman_art
 
 chosen_word = random.choice(hangman_words.word_list)
 word_length = len(chosen_word)
