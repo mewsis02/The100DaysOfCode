@@ -1,4 +1,4 @@
-# Printing, Commenting, String Manipulation, Variables
+# Day 1: Printing, Commenting, String Manipulation, Variables
 
 # Printing Hello World To Console
 print("Hello World!")

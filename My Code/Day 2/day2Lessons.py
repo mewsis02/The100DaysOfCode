@@ -1,4 +1,4 @@
-# Data Types, Numbers, Operations, Type Conversion, F-Strings
+# Day 2: Data Types, Numbers, Operations, Type Conversion, F-Strings
 
 print("")
 # Data Types

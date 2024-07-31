@@ -1,4 +1,4 @@
-# Local and Global Scope
+# Day 12: Local and Global Scope
 
 enemies = 1
 

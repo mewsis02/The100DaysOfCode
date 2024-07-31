@@ -1,4 +1,4 @@
-# The Auction
+# Day 9: The Auction
 
 import blind_auction
 print(blind_auction.logo)

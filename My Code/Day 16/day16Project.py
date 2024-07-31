@@ -1,4 +1,4 @@
-# Hanna's OOP Coffee Machine
+# Day 16: Hanna's OOP Coffee Machine
 
 from .menu import Menu, MenuItem
 from .coffee_maker import CoffeeMaker

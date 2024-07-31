@@ -1,4 +1,4 @@
-# Conditional Statements, Logical Operators
+# Day 3: Conditional Statements, Logical Operators
 
 print("Welcome to the Hanna's Rollers!")
 height = int(input("What is your height in cm? "))

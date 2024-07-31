@@ -1,4 +1,4 @@
-# Hanna's Coffee Machine
+# Day 15: Hanna's Coffee Machine
 
 MENU = {
     "espresso": {

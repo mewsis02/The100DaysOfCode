@@ -1,4 +1,4 @@
-# Love Island - Choose Your Fate!
+# Day 3: Love Island - Choose Your Fate!
 
 print('''
         _.-%/______________________/////

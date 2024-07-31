@@ -1,4 +1,4 @@
-# The Blackjack Capstone Project
+# Day 11: The Blackjack Capstone Project
 
 import random
 

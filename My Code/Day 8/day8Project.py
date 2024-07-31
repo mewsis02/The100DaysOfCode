@@ -1,4 +1,4 @@
-# My Caesar Cipher
+# Day 8: My Caesar Cipher
 
 import ceasar_cipher
 print(ceasar_cipher.logo)

@@ -1,4 +1,4 @@
-# My Python Calculator
+# Day 10: My Python Calculator
 
 import python_calculator_art
 print(python_calculator_art.logo)

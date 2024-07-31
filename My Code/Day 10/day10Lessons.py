@@ -1,4 +1,4 @@
-# Functions with Outputs
+# Day 10: Functions with Outputs
 
 def format_name(f_name, l_name):
     if f_name == "" or l_name == "":

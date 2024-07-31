@@ -1,4 +1,4 @@
-# The Higher Lower Game
+# Day 14: The Higher Lower Game
 
 import random
 from .higher_lower_art import logo, vs

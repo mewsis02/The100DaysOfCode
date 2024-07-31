@@ -1,4 +1,4 @@
-# Functions with Inputs
+# Day 8: Functions with Inputs
 
 # Simple Function
 def greet():

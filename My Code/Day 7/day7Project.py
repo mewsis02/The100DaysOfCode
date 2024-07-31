@@ -1,4 +1,4 @@
-# Hangman
+# Day 7: Hangman
 
 import random
 

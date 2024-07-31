@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# Day 4: Rock Paper Scissors
 
 rock = '''
     _______
