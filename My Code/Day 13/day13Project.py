@@ -1,1 +1,0 @@
-print("There was no Project for this day.")

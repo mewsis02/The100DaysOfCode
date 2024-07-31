@@ -17,6 +17,7 @@ Lessons:
     day 13  : Debugging
     day 14  : None.
     day 15  : None.
+    day 16  : Object-Oriented Programming (OOP)
 
 Projects:
     day  1  : Band Name Generator
@@ -34,3 +35,4 @@ Projects:
     day 13  : None.
     day 14  : The Higher Lower Game
     day 15  : Hanna's Coffee Machine
+    day 16  : Hanna's OOP Coffee Machine

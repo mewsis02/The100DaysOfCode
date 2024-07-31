@@ -1,9 +1,9 @@
 # The Higher Lower Game
 
 import random
-import higher_lower_art
-import higher_lower_GameData
-print(higher_lower_art.logo)
+from .higher_lower_art import logo, vs
+from .higher_lower_GameData import data
+print(logo)
 
 numOfNames = 50
 keepPlaying = True
@@ -13,7 +13,7 @@ number1 = -1
 number2 = -1
 num1_dict = {}
 num2_dict = {}
-GameData = higher_lower_GameData.data
+GameData = data
 
 
 def start_game():
@@ -31,7 +31,7 @@ def keep_asking():
     isNum2Higher = False
     num1_dict = GameData[number1]
     print(f"Compare A: {num1_dict["name"]}, a {num1_dict["description"]}, from {num1_dict["country"]}.")
-    print(higher_lower_art.vs)
+    print(vs)
     num2_dict = GameData[number2]
     print(f"Against B: {num2_dict["name"]}, a {num2_dict["description"]}, from {num2_dict["country"]}.")
     choice = input("Who has more followers? Type 'A' or 'B': ").lower()
