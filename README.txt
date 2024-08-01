@@ -18,6 +18,7 @@ Lessons:
     day 14  : None.
     day 15  : None.
     day 16  : Object-Oriented Programming (OOP)
+    day 17  : Creating Classes
 
 Projects:
     day  1  : Band Name Generator
